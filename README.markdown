@@ -5,22 +5,23 @@ A Sublime Text plugin to jump to documentation for the current keyword.
 
 ## Supports
 
- * PHP
- * JS / CoffeeScript
- * HTML
- * CSS/SASS/LESS
- * Python (via `pydoc`)
- * Clojure
- * Go
- * Ruby (+Rails)
- * C / C++
- * Perl
- * C#
- * Lua
- * Postgres
- * Erlang
- * Smarty
- * Haskell
+* AutoHotkey
+* C / C++
+* C#
+* CSS/SASS/LESS
+* Clojure
+* Erlang
+* Go
+* HTML
+* Haskell
+* JS / CoffeeScript
+* Lua
+* PHP
+* Perl
+* Postgres
+* Python (via `pydoc`)
+* Ruby (+Rails)
+* Smarty
  * ...you can add any other language via settings
 
 
